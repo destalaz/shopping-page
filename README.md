@@ -1,0 +1,2 @@
+# shopping-page
+vuex + lib
